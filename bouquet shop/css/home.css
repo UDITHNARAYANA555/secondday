@@ -1,0 +1,20 @@
+.images{
+	height: 100%;
+	width: 100%;
+
+}
+.images img{
+	height: 200px;
+	width: 200px;
+	padding: 5px;
+}
+.imges img:hover{
+	box-shadow:3px 1px 1px black;
+	cursor:pointer;
+	transition:scale(1.2,1.2);
+	transition: 1s ease;
+}
+text area{
+	height:110px;
+	width: 450px;
+}
